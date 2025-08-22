@@ -1,6 +1,6 @@
 # Amigo Secreto (Amigo Oculto)
 
-![Imagem do Resultado final do porjeto](assets/projeto-final.png)
+<img src="assets/projeto-final.png" alt="Projeto final"/>
 
 ## Funcionalidades
 - Cadastro de participantes: Adicione nomes dos participantes do sorteio.
